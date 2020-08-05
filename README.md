@@ -1,9 +1,10 @@
 ### Hi there, I'm NAMNDEV - [BLOG](namndev.github.io) 👋
 
-## I'm a Developer, and Leader!
+This is the place where I opensource stuff and break things :rofl:
+
 - 🔭 I’m currently working on a [UIZA](https://uiza.io)!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I can share everything
+- 💬 I can share everything 👋
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
