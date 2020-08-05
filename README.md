@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm NAMNDEV - [BLOG](namndev.github.io) 👋
 
-## I'm a Husband, Father, Developer, and Leader!
+## I'm a Developer, and Leader!
 - 🔭 I’m currently working on a [UIZA](https://uiza.io)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
