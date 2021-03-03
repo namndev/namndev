@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on a [UIZA](https://uiza.io)!
+- 🔭 I’m currently working on a [TEKO](https://teko.vn)!
 - 🌱 I’m currently learning everything 🤣
 - 💬 I can share everything 👋
 - 🥅 2020 Goals: Contribute more to Open Source projects
