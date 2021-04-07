@@ -1,4 +1,4 @@
-### Hi there, I'm NAMNDEV - [BLOG](https://namndev.github.io) 👋
+### Hi there, I'm NAMNDEV - [BLOG](https://www.namndev.com) 👋
 
 This is the place where I opensource stuff and break things :rofl:
 
